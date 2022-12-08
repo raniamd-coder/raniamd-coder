@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raniamd-coder
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate with NASA
+- 💞️ I’m looking to collaborate with ME
 - 📫 How to reach me THE NEW FUTUR
 
 <!---
